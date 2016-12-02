@@ -4,3 +4,9 @@ c:\users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Adven
 c:\users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\AdventOfCode\obj\Debug\Day1.csprojResolveAssemblyReference.cache
 c:\users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
 c:\users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\stephen.burden\Source\Repos\AdventOfCode2016\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\stephen.burden\Source\Repos\AdventOfCode2016\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\stephen.burden\Source\Repos\AdventOfCode2016\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\stephen.burden\Source\Repos\AdventOfCode2016\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\stephen.burden\Source\Repos\AdventOfCode2016\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\stephen.burden\Source\Repos\AdventOfCode2016\AdventOfCode\obj\Debug\Day1.csprojResolveAssemblyReference.cache
