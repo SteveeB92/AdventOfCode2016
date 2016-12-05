@@ -36,22 +36,28 @@ namespace Day4
         public static int sectionIDIfReal(string line)
         {
             string[] lineSections = line.Split('-');
+			string encryptedRoomName = string.Empty;
             int[] charAmounts = new int[(int)'z' - 'a' + 1];
             char[] checksum;
-            int sectionID = 0;
+            int sectorID = 0;
             foreach (string section in lineSections)
             {
-                if (tryParseSectorIDChecksum(section, out sectionID, out checksum))
-                {
-                    if (!checksum.SequenceEqual(findCorrectChecksum(charAmounts)))
-                        return 0;
-                }
-                else
-                {
-                    charAmounts = amountOfCharactersInSection(section, charAmounts);
-                }
+				if (tryParseSectorIDChecksum(section, out sectorID, out checksum))
+				{
+					if (checksum.SequenceEqual(findCorrectChecksum(charAmounts)))
+					{
+						if (decryptRoomName(encryptedRoomName, sectorID).Substring(0, "north".Length).Equals("north")) 
+							Console.Out.WriteLine($"Sector ID of North Pole Objects room: {sectorID}");
+						return sectorID;
+					}
+				}
+				else
+				{
+					encryptedRoomName += encryptedRoomName.Equals(string.Empty) ? section : $" {section}";
+					charAmounts = amountOfCharactersInSection(section, charAmounts);
+				}
             }
-            return sectionID;
+            return 0;
         }
 
         public static bool tryParseSectorIDChecksum(string section, out int sectionID, out char[] checksum)
@@ -111,5 +117,25 @@ namespace Day4
             checksum[position] = character;
             return checksum;
         }
+
+		public static string decryptRoomName(string encryptedRoomName, int sectorID)
+		{
+			//Caeser cypher - rotate the characters through the alphabet by the sectorID value
+			int amountOfCharsToRotate = sectorID % 26;
+			StringBuilder roomNameBuilder = new StringBuilder();
+			string decryptedRoomName = string.Empty;
+
+			foreach (Char character in encryptedRoomName.ToCharArray())
+			{
+				if (character == ' ')
+					roomNameBuilder.Append(character);
+				else
+					roomNameBuilder.Append((char) (character + amountOfCharsToRotate > (int)'z' ? character + amountOfCharsToRotate - 26 : (char) character + amountOfCharsToRotate));
+			}
+
+			return roomNameBuilder.ToString();
+		}
+
+
     }
 }
