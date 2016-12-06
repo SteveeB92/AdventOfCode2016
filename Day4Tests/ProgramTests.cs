@@ -28,5 +28,11 @@ namespace Day4.Tests
             Assert.AreEqual(0, Program.sectionIDIfReal("qvbmzvibqwvit-xtiabqk-oziaa-apqxxqvo-590[wbigl]"));
 
         }
+
+        [TestMethod]
+        public void decryptRoomNameTest()
+        {
+            Assert.AreEqual("very encrypted name", Program.decryptRoomName("qzmt zixmtkozy ivhz", 343));
+        }
     }
 }

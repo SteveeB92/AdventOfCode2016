@@ -1,0 +1,8 @@
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\bin\Debug\Day5Tests.dll
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\bin\Debug\Day5Tests.pdb
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\bin\Debug\Day5.exe
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\bin\Debug\Day5.pdb
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\obj\Debug\Day5Tests.csprojResolveAssemblyReference.cache
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\obj\Debug\Day5Tests.dll
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day5Tests\obj\Debug\Day5Tests.pdb
