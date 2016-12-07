@@ -1,0 +1,6 @@
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6\bin\Debug\Day6.exe.config
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6\bin\Debug\Day6.exe
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6\bin\Debug\Day6.pdb
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6\obj\Debug\Day6.csprojResolveAssemblyReference.cache
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6\obj\Debug\Day6.exe
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6\obj\Debug\Day6.pdb

@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Day6.Tests.ProgramTests.correctedMessagePart1Test" /><Add Test="Day6.Tests.ProgramTests.findCorrectedMessageFromListTest" /><Add Test="Day6.Tests.ProgramTests.findMostCommonCharInListForColumnTest" /><Add Test="Day6.Tests.ProgramTests.findMostOrLeastCommonCharInListForColumnTest" /></Playlist>

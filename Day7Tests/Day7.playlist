@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Day7.Tests.LineSectionsTests.isIPSupportsTLSTest" /><Add Test="Day7.Tests.LineSectionsTests.sectionContainsABBASequenceTest" /><Add Test="Day7.Tests.LineSectionsTests.LineSectionsTest" /><Add Test="Day7.Tests.LineSectionsTests.checkFourCharsAreABBATest" /></Playlist>

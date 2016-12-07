@@ -1,0 +1,8 @@
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\obj\Debug\Day6Tests.csprojResolveAssemblyReference.cache
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\bin\Debug\Day6Tests.dll
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\bin\Debug\Day6Tests.pdb
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\bin\Debug\Day6.exe
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\bin\Debug\Day6.pdb
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\obj\Debug\Day6Tests.dll
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\Day6Tests\obj\Debug\Day6Tests.pdb
