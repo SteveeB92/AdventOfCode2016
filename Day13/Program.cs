@@ -12,7 +12,7 @@ namespace Day13
         static void Main(string[] args)
         {
             Office office = new Office(50, 60, PUZZLE_INPUT);
-            int shortestPathDistance = office.FindShortestPathToLocation(31, 390);
+            int shortestPathDistance = office.FindShortestPathToLocation(31, 39);
             Console.Out.WriteLine($"Shortest path distance: {shortestPathDistance}");
             Console.ReadKey();
         }
