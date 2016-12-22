@@ -1,0 +1,6 @@
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\GridComputing\bin\Debug\GridComputing.exe.config
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\GridComputing\bin\Debug\GridComputing.exe
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\GridComputing\bin\Debug\GridComputing.pdb
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\GridComputing\obj\Debug\GridComputing.csprojResolveAssemblyReference.cache
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\GridComputing\obj\Debug\GridComputing.exe
+C:\Users\powce\onedrive\documents\visual studio 2015\Projects\AdventOfCode\GridComputing\obj\Debug\GridComputing.pdb
